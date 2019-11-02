@@ -1,14 +1,14 @@
 {
-	"token": "",
-	"ownerID": "",
-	"webhook": "",
-	"defaultPrefix": "",
-	"clientSecret": "",
-	"websiteURL": "",
+	"token": "NjMwNzU3ODUzNDQ3MTkyNTc3.Xb3TWw.-dYQKF_cu9Tl73Z7xwe5RKurGks",
+	"ownerID": "274629DHUD",
+	"webhook": "UE",
+	"defaultPrefix": "FHIUH",
+	"clientSecret": "ufsd",
+	"websiteURL": "www.Music Rex.com",
 
-	"red": "0xffb3ba",
-	"orange": "0xffdfba",
-	"yellow": "0xfffba",
-	"green": "0xbaffc9",
-	"blue": "0xbae1ff"
+	"red": "هلا هنا افضل بوت ميوزك",
+	"orange": "تبي تضيفه ؟ ضيف https://discordapp.com/api/oauth2/authorize?client_id=630757853447192577&permissions=8&scope=bot",
+	"yellow": "عجبك ؟",
+	"green": "جربه وش تنتضر ؟ يلا ",
+	"blue": "انه افضل بوت"
 }
